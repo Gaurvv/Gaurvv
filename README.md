@@ -1,16 +1,22 @@
-## Hi there 👋
+<h1 align="center">Hey, I'm Gauravz 👋</h1>
+<p align="center">
+  Web Dev 💻 | Tech Explorer 🚀 | Coffee-Fueled Coder ☕
+</p>
 
-<!--
-**Gaurvv/Gaurvv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 🔭 I’m currently working on cool web projects
+- 🌱 Always learning new stuff (React, Node.js, Tailwind, etc.)
+- ⚡ Fun fact: I can build and break things equally fast 💥
+- 🎯 Goal: Become a full-stack wizard 🧙‍♂️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+```js
+const techStack = {
+  frontend: ['HTML', 'CSS', 'JavaScript', 'React', 'Tailwind'],
+  backend: ['Node.js', 'Express', 'MongoDB'],
+  tools: ['Git', 'GitHub', 'VSCode', 'Postman']
+};
