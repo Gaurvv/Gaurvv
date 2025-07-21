@@ -18,5 +18,5 @@
 const techStack = {
   frontend: ['HTML', 'CSS', 'JavaScript', 'React', 'Tailwind'],
   backend: ['Node.js', 'Express', 'MongoDB'],
-  tools: ['Git', 'GitHub', 'VSCode', 'Postman']
+  tools: ['Git', 'GitHub', 'VSCode', ]
 };
