@@ -1,6 +1,6 @@
 <h1 align="center">Hey, I'm Gauravz 👋</h1>
 <p align="center">
-  Web Dev 💻 | Tech Explorer 🚀 | Coffee-Fueled Coder ☕
+  Web Dev 💻 | Tech Explorer 🚀 | Lassi-Fueled Coder 🥤
 </p>
 
 ---
@@ -18,5 +18,5 @@
 const techStack = {
   frontend: ['HTML', 'CSS', 'JavaScript', 'React', 'Tailwind'],
   backend: ['Node.js', 'Express', 'MongoDB'],
-  tools: ['Git', 'GitHub', 'VSCode', ]
+  tools: ['Git', 'GitHub', 'VSCode']
 };
