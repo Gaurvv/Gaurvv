@@ -1,6 +1,6 @@
 <h1 align="center">Hey, I'm Gauravz 👋</h1>
 <p align="center">
-  Web Dev 💻 | Tech Explorer 🚀 | Lassi-Fueled Coder 🥤
+  Web Dev 💻 | Tech Explorer 🚀 | Tea-Fueled Coder 🍵
 </p>
 
 ---
