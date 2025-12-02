@@ -8,8 +8,7 @@
 ### 🚀 About Me
 - 🔭 I’m currently working on cool web projects
 - 🌱 Always learning new stuff (React, Node.js, Tailwind, etc.)
-- ⚡ Fun fact: I can build and break things equally fast 💥
-- 🎯 Goal: Become a full-stack wizard 🧙‍♂️
+- 
 
 ---
 
